@@ -1,0 +1,36 @@
+a {
+  color:#222;
+  text-decoration: none;
+}
+
+#container{
+   width: 84%;
+   max-width: 1024px;
+   margin: 0 auto;
+   text-align: center;
+}
+
+h1 {
+  font-size: 3vw;
+}
+
+nav{
+  text-align: center;
+}
+
+ul{
+  display: inline-flex;
+  flex-direction: row;
+}
+
+ul li{
+  list-style-type: none;
+  margin-right: 2rem;
+ }
+
+
+
+iframe {
+  border:1px dotted gray;
+  width:640px;
+}
